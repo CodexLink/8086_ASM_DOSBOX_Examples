@@ -1,0 +1,13 @@
+# Custom Gitignore for Exclusive ASM Commit Only
+*.exe
+*.map
+*.obj
+*.com
+*.bat
+*.set
+*.ord
+*.key
+*.inc
+*.c
+*.txt
+.vscode/**
