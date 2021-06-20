@@ -114,11 +114,12 @@ The following links are a set of redirections to **certain PDFs** or **articles*
 
 ## Credits
 
-I would like to thank all of the authors that has a question that exists in the internet, people who provides PDFs and Articles without shutting their servers down, extensions who extend the capabilities of my text editor, providers of TASM, DEBUGX and TLINK compiled programs, and other people who became the part of my self-learning experience of this course. Some links provided below are the once I can honorly mention because of my utilization to their programs / extensions / etc:
+I would like to **thank all** of the authors that has a question that exists in the internet, people who provides pdfs and articles without shutting their servers down, extensions who extend the capabilities of my text editor, providers of **TASM**, **DEBUGX** and **TLINK** compiled programs, and other people who became the part of my self-learning experience of this course. Some links provided below are the once I can honorly mention because of my utilization to their programs / extensions / etc:
 
 1. [Assembly 8086 (TASM) by Roncho](https://marketplace.visualstudio.com/items?itemName=Roncho.assembly-8086)
 2. [Neovim](https://neovim.io/)
 3. [Vim Extension by vscodevim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
 4. [DOSBox Emulator](https://www.dosbox.com/)
+5. [Visual Studio Code](https://code.visualstudio.com/)
 
 ***Thank you for reaching this far. I appreciate you for taking an interest to my dumped contents.***
