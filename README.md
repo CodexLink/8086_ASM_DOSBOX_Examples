@@ -48,26 +48,26 @@ TLINK /T <PROGRAM_NAME_WO_EXTENSION>
 
 ## Filenames and Output
 
-The following is a list of filenames along with it's description and their output. It will be long list, please check the [media folder]() for the overview of those picture. Or click the link per row to see the exact output.
+The following is a list of filenames along with it's description and their output. It will be long list, please check the [media folder](https://github.com/CodexLink/8086_ASM_DOSBOX_Examples/tree/main/media) for the overview of those picture. Or click the images per row to see the exact output.
 
 | #  | Filename (.asm) 	| Require /T (*) | Description | Output |
 |----| ----------------	| ----- | ------------- | ----------------- |
-| 1  | ADD_NUM 		   	| Yes 	| (***Adding Numbers***) Adds 2 single-digit numbers and display them properly. (In-Equation Form) | ![Simulation Choices](https://github.com/CodexLink/Time-Based_Clap-Pattern-Lock_VHDL08/blob/LEGACY_WORK/imgs/overall-tests.png) |
-| 2  | ATTRSCRL 	   	| No 	| (***Attribute Render with Scrolling**) Scroll then Render a 3-Column Color, Green-Red-Blue respectively. | ![Simulation Choices](https://github.com/CodexLink/Time-Based_Clap-Pattern-Lock_VHDL08/blob/LEGACY_WORK/imgs/overall-tests.png) |
-| 3  | CHAR_POS 		| No 	| (***Character Positioning via Manipulation***) Get certain character index and move it somewhere from the string. | ![Simulation Choices](https://github.com/CodexLink/Time-Based_Clap-Pattern-Lock_VHDL08/blob/LGACY_WORK/imgs/overall-tests.png) |
-| 4  | CMP_JMP 			| No 	| (***Compare then Jump!***) Compare and jump from one label to another based on input. | ![Simulation Choices](https://github.com/CodexLink/Time-Based_Clap-Pattern-Lock_VHDL08/blob/LGACY_WORK/imgs/overall-tests.png) |
-| 5  | DSTROUT 			| No 	| (***Double String Output***) Displays a string from the input ***twice*** with delimiter handling via pointer. | ![Simulation Choices](https://github.com/CodexLink/Time-Based_Clap-Pattern-Lock_VHDL08/blob/LGACY_WORK/imgs/overall-tests.png) |
-| 6  | GL_CB 			| No 	| (***Google Cardboard Logo***) A Logo Design of Google Cardboard in 8-bit Terminal. | ![Simulation Choices](https://github.com/CodexLink/Time-Based_Clap-Pattern-Lock_VHDL08/blob/LGACY_WORK/imgs/overall-tests.png) |
-| 7  | GUESS_N 			| No 	| (***Guess the Number!***) Guess the number (5) with indicators of making the user input higher or lower. | ![Simulation Choices](https://github.com/CodexLink/Time-Based_Clap-Pattern-Lock_VHDL08/blob/LGACY_WORK/imgs/overall-tests.png) |
-| 8  | LYMC 			| No 	| (***Light Blue-Yellow-Magenta-Cyan Column***) Renders 4-Column Colors with Identification String. | ![Simulation Choices](https://github.com/CodexLink/Time-Based_Clap-Pattern-Lock_VHDL08/blob/LGACY_WORK/imgs/overall-tests.png) |
-| 9  | SH_USERN 		| No 	| (***Show Username after Input***) Show's username after asking for the name with delimiter modification. | ![Simulation Choices](https://github.com/CodexLink/Time-Based_Clap-Pattern-Lock_VHDL08/blob/LGACY_WORK/imgs/overall-tests.png) |
-| 10 | SMP_ATTR 		| No 	| (***Sample of Screen Attribute Modification***) Shows a sample of blinking letters with background and foreground colors. | ![Simulation Choices](https://github.com/CodexLink/Time-Based_Clap-Pattern-Lock_VHDL08/blob/LGACY_WORK/imgs/overall-tests.png) |
-| 11 | STCK_REC 		| No 	| (***Stacked Rectangles***) Just 3 rectangles, stacked together. Rendered in reverse. | ![Simulation Choices](https://github.com/CodexLink/Time-Based_Clap-Pattern-Lock_VHDL08/blob/LGACY_WORK/imgs/overall-tests.png) |
-| 12 | STR_POS		 	| No 	| (***String Positioning***) Displays a string in the column-centric of the 80x80 terminal. | ![Simulation Choices](https://github.com/CodexLink/Time-Based_Clap-Pattern-Lock_VHDL08/blob/LGACY_WORK/imgs/overall-tests.png) |
-| 13 | STRMANIP 		| No 	| (***String Manipulation***) Displays a string in reversed with extreme manipulation. | ![Simulation Choices](https://github.com/CodexLink/Time-Based_Clap-Pattern-Lock_VHDL08/blob/LGACY_WORK/imgs/overall-tests.png) |
-| 14 | SUB_NUM			| Yes	| (***Subtract Numbers***) Subtracts 2 single-digit numbers with string output. (Non-Equation Output) | ![Simulation Choices](https://github.com/CodexLink/Time-Based_Clap-Pattern-Lock_VHDL08/blob/LGACY_WORK/imgs/overall-tests.png) |
-| 15 | TRGB 			| No 	| T-Structure in Red and Green (Left) + Blue (Right) for Spacing. | ![Simulation Choices](https://github.com/CodexLink/Time-Based_Clap-Pattern-Lock_VHDL08/blob/LGACY_WORK/imgs/overall-tests.png) |
-| 16 | TRIA 			| No 	| (***Half-Triangle***) Rendered with Bare-Minimum Loops. | ![Simulation Choices](https://github.com/CodexLink/Time-Based_Clap-Pattern-Lock_VHDL08/blob/LGACY_WORK/imgs/overall-tests.png) |
+| 1  | ADD_NUM 		   	| Yes 	| (***Adding Numbers***) Adds 2 single-digit numbers and display them properly. (In-Equation Form) | ![ADD_NUM Output](https://github.com/CodexLink/8086_ASM_DOSBOX_Examples/blob/main/media/ADD_NUM.png) |
+| 2  | ATTRSCRL 	   	| No 	| (***Attribute Render with Scrolling**) Scroll then Render a 3-Column Color, Green-Red-Blue respectively. | ![ATTRSCRL Output](https://github.com/CodexLink/8086_ASM_DOSBOX_Examples/blob/main/media/ATTRSCRL.png) |
+| 3  | CHAR_POS 		| No 	| (***Character Positioning via Manipulation***) Get certain character index and move it somewhere from the string. | ![CHAR_POS Output](https://github.com/CodexLink/8086_ASM_DOSBOX_Examples/blob/main/media/CHAR_POS.png) |
+| 4  | CMP_JMP 			| No 	| (***Compare then Jump!***) Compare and jump from one label to another based on input. | ![CMP_JMP Output](https://github.com/CodexLink/8086_ASM_DOSBOX_Examples/blob/main/media/CMP_JMP.png) |
+| 5  | DSTROUT 			| No 	| (***Double String Output***) Displays a string from the input ***twice*** with delimiter handling via pointer. | ![DSTROUT Output](https://github.com/CodexLink/8086_ASM_DOSBOX_Examples/blob/main/media/DSTROUT.png) |
+| 6  | GL_CB 			| No 	| (***Google Cardboard Logo***) A Logo Design of Google Cardboard in 8-bit Terminal. | ![GL_CB Output](https://github.com/CodexLink/8086_ASM_DOSBOX_Examples/blob/main/media/GL_CB.png) |
+| 7  | GUESS_N 			| No 	| (***Guess the Number!***) Guess the number (5) with indicators of making the user input higher or lower. | ![GUESS_N Output](https://github.com/CodexLink/8086_ASM_DOSBOX_Examples/blob/main/media/GUESS_N.png) |
+| 8  | LYMC 			| No 	| (***Light Blue-Yellow-Magenta-Cyan Column***) Renders 4-Column Colors with Identification String. | ![LYMC Output](https://github.com/CodexLink/8086_ASM_DOSBOX_Examples/blob/main/media/LYMC.png) |
+| 9  | SH_USERN 		| No 	| (***Show Username after Input***) Show's username after asking for the name with delimiter modification. | ![SH_USERN Output](https://github.com/CodexLink/8086_ASM_DOSBOX_Examples/blob/main/media/SH_USERN.png) |
+| 10 | SMP_ATTR 		| No 	| (***Sample of Screen Attribute Modification***) Shows a sample of blinking letters with background and foreground colors. | ![SMP_ATTR Output](https://github.com/CodexLink/8086_ASM_DOSBOX_Examples/blob/main/media/SMP_ATTR.png) |
+| 11 | STCK_REC 		| No 	| (***Stacked Rectangles***) Just 3 rectangles, stacked together. Rendered in reverse. | ![STCK_REC Output](https://github.com/CodexLink/8086_ASM_DOSBOX_Examples/blob/main/media/CSTCK_REC.png) |
+| 12 | STR_POS		 	| No 	| (***String Positioning***) Displays a string in the column-centric of the 80x80 terminal. | ![STR_POS Output](https://github.com/CodexLink/8086_ASM_DOSBOX_Examples/blob/main/media/STR_POS.png) |
+| 13 | STRMANIP 		| No 	| (***String Manipulation***) Displays a string in reversed with extreme manipulation. | ![STRMANIP Output](https://github.com/CodexLink/8086_ASM_DOSBOX_Examples/blob/main/media/.png) |
+| 14 | SUB_NUM			| Yes	| (***Subtract Numbers***) Subtracts 2 single-digit numbers with string output. (Non-Equation Output) | ![SUB_NUM Output](https://github.com/CodexLink/8086_ASM_DOSBOX_Examples/blob/main/media/STRMANIP.png) |
+| 15 | TRGB 			| No 	| T-Structure in Red and Green (Left) + Blue (Right) for Spacing. | ![TRGB Output](https://github.com/CodexLink/8086_ASM_DOSBOX_Examples/blob/main/media/TRGB.png) |
+| 16 | TRIA 			| No 	| (***Half-Triangle***) Rendered with Bare-Minimum Loops. | ![TRIA Output](https://github.com/CodexLink/8086_ASM_DOSBOX_Examples/blob/main/media/TRIA.png) |
 
 ### Note(s)
 
